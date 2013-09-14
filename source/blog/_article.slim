@@ -12,7 +12,7 @@ div class='row'
         = article.body
 
       - if digest && article.summary.length < article.body.length
-          p class='readmore' #{link_to 'Read more &rarr;', article.url, class: 'secondary button radius'}
+          p class='readmore' #{link_to 'Read more &rarr;', article.url, class: 'small button'}
 
       - unless digest
         ul class='read_next'
