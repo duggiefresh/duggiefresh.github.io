@@ -95,6 +95,7 @@ page 'humans.txt', :layout => false
 
 # Generate sitemap after build
 activate :sitemap_generator
+activate :directory_indexes
 
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
