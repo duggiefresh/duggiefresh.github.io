@@ -122,7 +122,7 @@ configure :build do
   # set :http_path, '/Content/images/'
 end
 
-activate :build do |build|
+activate :deploy do |deploy|
   deploy.build_before = true
   deploy.branch = 'master'
 end
