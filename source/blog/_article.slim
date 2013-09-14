@@ -1,0 +1,37 @@
+div class='row'
+  article class='small-12 large-9 columns left'
+    h3
+      - if digest
+        = link_to article.title, article
+      - else
+        = article.title
+    p
+      - if digest
+        = article.summary
+      - else
+        = article.body
+
+      - if digest && article.summary.length < article.body.length
+          p class='readmore' #{link_to 'Read more &rarr;', article.url, class: 'secondary button radius'}
+
+      - unless digest
+        ul class='read_next'
+          li = article.previous_article ? link_to("<i class='icon-caret-left'></i> #{article.previous_article.title}", article.previous_article) : "&nbsp;"
+          li = article.next_article ? link_to("#{article.next_article.title} <i class='icon-caret-right'></i>", article.next_article) : "&nbsp;"
+
+  aside class='small-12 large-3 columns right'
+    ul class='credit'
+      li class='time' Posted on
+      time datetime='#{ article.date.strftime('%Y-%m-%d')}' #{article.date.strftime('%A %b %e, %Y')}
+    ul class='tags'
+      - article.tags.each do |tag|
+        li = link_to tag, tag_path(tag), class: 'tiny button secondary round'
+
+      /div id='disqus_thread'
+        /script type='text/javascript'
+          /var disqus_shortname = 'TODO_REPLACE_ME';
+          /| (function() {
+              /var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              /dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              /(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            /})();
