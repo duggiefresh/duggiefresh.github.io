@@ -20,12 +20,13 @@ div class='row'
           li = article.next_article ? link_to("#{article.next_article.title} <i class='icon-caret-right'></i>", article.next_article) : "&nbsp;"
 
   aside class='small-12 large-3 columns right'
-    ul class='credit'
-      li class='time' Posted on
-      time datetime='#{ article.date.strftime('%Y-%m-%d')}' #{article.date.strftime('%A %b %e, %Y')}
-    ul class='tags'
-      - article.tags.each do |tag|
-        li = link_to tag, tag_path(tag), class: 'tiny button secondary round'
+    ul class='side-nav'
+      ul class='credit'
+        li class='time'
+        time datetime='#{ article.date.strftime('%Y-%m-%d') }' #{ article.date.strftime('%A %b %e, %Y') }
+      ul class='tags'
+        - article.tags.each do |tag|
+          li = link_to tag, tag_path(tag), class: 'tiny button secondary'
 
       /div id='disqus_thread'
         /script type='text/javascript'

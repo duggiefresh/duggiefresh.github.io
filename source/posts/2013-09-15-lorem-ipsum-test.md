@@ -1,6 +1,6 @@
 ---
 title: 'Lorem Ipsum Test'
-date: 2013-09-14
+date: 2013-09-15
 tags: fake, Big Lebowski, lorem IPSUM
 ---
 wski ipsum shit, I know that guy. He's a nihilist. Come and get it. Fucking nihilist. That had not occurred to us, Dude. Say friend, ya got any more a that good sarsaparilla? He suspects that the culprits might be the very people who, uh, soiled your rug, and you're in a unique position to confirm or, uh, disconfirm that suspicion. Chinaman is not the preferred nomenclature. Asian-American. Please.
