@@ -16,14 +16,15 @@ div class='row'
 
       - unless digest
         ul class='read_next'
-          li = article.previous_article ? link_to("<i class='icon-caret-left'></i> #{article.previous_article.title}", article.previous_article) : "&nbsp;"
-          li = article.next_article ? link_to("#{article.next_article.title} <i class='icon-caret-right'></i>", article.next_article) : "&nbsp;"
+          li = article.previous_article ? link_to("<i class='icon-long-arrow-left'></i> #{article.previous_article.title}", article.previous_article) : "&nbsp;"
+          li = article.next_article ? link_to("#{article.next_article.title} <i class='icon-long-arrow-right'></i>", article.next_article) : "&nbsp;"
 
   aside class='small-12 large-3 columns right'
-    ul class='side-nav'
-      ul class='credit'
-        li class='time'
-        time datetime='#{ article.date.strftime('%Y-%m-%d') }' #{ article.date.strftime('%A %b %e, %Y') }
+    ul class='side-nav credit'
+      li class='time'
+      time datetime='#{ article.date.strftime('%Y-%m-%d') }'
+      h5 #{ article.date.strftime('%A - %B %e, %Y') }
+      li #{ article.date.strftime('%A') }
       ul class='tags'
         - article.tags.each do |tag|
           li = link_to tag, tag_path(tag), class: 'tiny button secondary'

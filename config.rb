@@ -23,7 +23,7 @@ activate :sprockets
 Time.zone = 'US/Eastern'
 
 activate :blog do |blog|
-  blog.permalink = ':year/:month/:day/:title.html'
+  blog.permalink = 'posts/:year/:month/:day/:title.html'
   blog.sources = 'posts/:year-:month-:day-:title.html'
   blog.taglink = 'tags/:tag.html'
   blog.layout = 'article'
