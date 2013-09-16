@@ -1,4 +1,4 @@
-<!DOCTYPE html><head><meta charset="utf-8" /><meta content="" name="description" /><meta content="" name="copyright" /><meta href="/humans.txt" rel="author" type="text/plain" /><meta content="width=device-width, initial-scale=1.0" name="viewport" /><meta content="True" name="HandheldFriendly" /><meta content="320" name="MobileOptimized" /><meta content="yes" name="apple-mobile-web-app-capable" /><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style" /><meta content="on" http-equiv="cleartype" /><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" /><title>Doug Yun | duggiefresh</title><link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" /><link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" /><script src="/javascripts/modernizr.js" type="text/javascript"></script><div class="contain-to-grid sticky"><nav class="top-bar"><ul class="title-area"><li class="name"><h1><a href="/">duggiefresh</a></h1></li></ul><ul class="small-12 large-3 columns right"><h3><a class="icon-twitter" href="http://twitter.com/dougyun"></a><a class="icon-github" href="http://github.com/duggiefresh"></a></h3></ul></nav></div></head><body><div class="row"><div class="small-12 columns"><?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html><head><meta charset="utf-8" /><meta content="" name="description" /><meta content="" name="copyright" /><meta href="/humans.txt" rel="author" type="text/plain" /><meta content="width=device-width, initial-scale=1.0" name="viewport" /><meta content="True" name="HandheldFriendly" /><meta content="320" name="MobileOptimized" /><meta content="yes" name="apple-mobile-web-app-capable" /><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style" /><meta content="on" http-equiv="cleartype" /><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" /><title>Doug Yun | duggiefresh</title><link href="//netdna.bootstrapcdn.com/font-awesome/3.2.0/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css" /><link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css" /><script src="/javascripts/modernizr.js" type="text/javascript"></script><div class="contain-to-grid sticky"><nav class="top-bar"><ul class="title-area"><li class="name"><h1><a href="/">duggiefresh</a></h1></li></ul><ul class="small-12 large-3 columns right"><h3><a class="icon-twitter" href="http://twitter.com/dougyun"></a><a class="icon-github-alt" href="http://github.com/duggiefresh"></a></h3></ul></nav></div></head><body><div class="row"><div class="small-12 columns"><?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>duggiefresh</title>
   <subtitle>Blog subtitle</subtitle>
@@ -10,34 +10,41 @@
     <name>Doug Yun</name>
   </author>
   <entry>
-    <title>Lorem Ipsum Test</title>
-    <link rel="alternate" href="/2013/09/15/lorem-ipsum-test/"/>
-    <id>/2013/09/15/lorem-ipsum-test/</id>
+    <title>Things to do</title>
+    <link rel="alternate" href="/posts/2013/09/15/things-to-do/"/>
+    <id>/posts/2013/09/15/things-to-do/</id>
     <published>2013-09-15T04:00:00Z</published>
     <updated>2013-09-15T04:00:00Z</updated>
     <author>
       <name>Doug Yun</name>
     </author>
-    <summary type="html">&lt;p&gt;wski ipsum shit, I know that guy. He's a nihilist. Come and get it. Fucking nihilist. That had not occurred to us, Dude. Say friend, ya got any more a that good sarsaparilla? He suspects that the culprits might be the very people who, uh, soiled your...&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;wski ipsum shit, I know that guy. He's a nihilist. Come and get it. Fucking nihilist. That had not occurred to us, Dude. Say friend, ya got any more a that good sarsaparilla? He suspects that the culprits might be the very people who, uh, soiled your rug, and you're in a unique position to confirm or, uh, disconfirm that suspicion. Chinaman is not the preferred nomenclature. Asian-American. Please.&lt;/p&gt;
+    <summary type="html">&lt;p&gt;NFL Sunday. Woo hoo. Go Niners.&lt;/p&gt;
 
-&lt;p&gt;That wasn't her toe. Hey, relax man, I'm a brother shamus. Look at that fucking phony, Dude! Pretending to be a fucking millionaire! I got information—new shit has come to light and—shit, man! She kidnapped herself! Fuck it, Dude. Let's go bowling. Hello! Do you speak English? Parla usted Inglese? I'll say it again. Did I urinate on your rug? One a those days, huh. Wal, a wiser fella than m'self once said, sometimes you eat the bar and sometimes the bar, wal, he eats you.&lt;/p&gt;
+&lt;p&gt;This weekend I got a bunch stuff done for the site. Today I've
+switched out some icons and cleaned up the sidebar.&lt;/p&gt;
 
-&lt;p&gt;It's all a goddamn fake. Like Lenin said, look for the person who will benefit. And you will, uh, you know, you'll, uh, you know what I'm trying to say. We wanted to talk about little Larry. May we come in? Walter, you can't do that. These guys're like me, they're pacifists. Smokey was a conscientious objector. "My son can't hold a job, my daughter's married to a fuckin' loser, and I got a rash on my ass so bad I can't hardly siddown. But you know me. I can't complain.".&lt;/p&gt;
+&lt;p&gt;I'm using &lt;a href="http://slim-lang.com/"&gt;Slim&lt;/a&gt; and
+&lt;a href="http://foundation.zurb.com/"&gt;Foundation&lt;/a&gt;. So far it has been a pretty
+good experience.&lt;/p&gt;
 
-&lt;p&gt;I mean his wife goes out and owes money and they pee on my rug. Ja, it seems you forgot our little deal, Lebowski. Another Caucasian, Gary. Life does not stop and start at your convenience, you miserable piece of shit. I SAY VEE CUT OFF YOUR CHONSON! This Chinaman is not the issue! My point, Dude, is why should we settle for twenty grand when we can keep the entire million. Am I wrong?&lt;/p&gt;
+&lt;p&gt;In the future, I think...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;NFL Sunday. Woo hoo. Go Niners.&lt;/p&gt;
 
-&lt;p&gt;Fuck you man! You don't like my fucking music, get your own fucking cab! No, look. I do mind. The Dude minds. This will not stand, you know, this aggression will not stand, man. D'ya have a good sarsaparilla? WALTER, FOR CHRIST'S SAKE! HE'S CRIPPLED! PUT HIM DOWN! I know my rights. Lady, I got buddies who died face-down in the mud so you and I could enjoy this family restaurant!&lt;/p&gt;
+&lt;p&gt;This weekend I got a bunch stuff done for the site. Today I've
+switched out some icons and cleaned up the sidebar.&lt;/p&gt;
 
-&lt;p&gt;You want a toe? I can get you a toe, believe me. There are ways, Dude. You don't wanna know about it, believe me. That, or Duder. His Dudeness. Or El Duderino, if you know, you're not into the whole brevity thing. Yes, so we were informed. However, we must of course transmit the remains to you in a receptacle. Vee belief in nossing. I told that kraut a fucking thousand times I don't roll on shabbos.&lt;/p&gt;
+&lt;p&gt;I'm using &lt;a href="http://slim-lang.com/"&gt;Slim&lt;/a&gt; and
+&lt;a href="http://foundation.zurb.com/"&gt;Foundation&lt;/a&gt;. So far it has been a pretty
+good experience.&lt;/p&gt;
 
-&lt;p&gt;JUST BECAUSE WE'RE BEREAVED DOESN'T MEAN WE'RE SAPS! Ja, your viggly penis, Lebowski. Mr. Lebowski is in seclusion in the West Wing. We know it's his fucking homework, Walter! Where's the fucking money, you little brat? The Dude abides. VEE FUCK YOU UP, MAN! VEE TAKE YOUR MONEY! Little Lebowski Urban Achievers, yes, and proud we are of all of them. Nihilists! Jesus. I'm not Mr. Lebowski; you're Mr. Lebowski. I'm the Dude.&lt;/p&gt;
+&lt;p&gt;In the future, I think I'm going to go over some stuff I learned from
+playing with Scheme.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>First Post</title>
-    <link rel="alternate" href="/2013/09/14/first-post/"/>
-    <id>/2013/09/14/first-post/</id>
+    <link rel="alternate" href="/posts/2013/09/14/first-post/"/>
+    <id>/posts/2013/09/14/first-post/</id>
     <published>2013-09-14T04:00:00Z</published>
     <updated>2013-09-14T04:00:00Z</updated>
     <author>
